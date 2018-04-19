@@ -1,5 +1,3 @@
-# average-files
-
 Supose N data files named foo-i.dat, i=1, ..., N.
 
 formatted as 
